@@ -1,0 +1,13 @@
+name = "Macaw's Furniture"
+filename = "mcw-furniture-3.2.1-mc1.19.2fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dtWC90iB/versions/Qj7qk3hj/mcw-furniture-3.2.1-mc1.19.2fabric.jar"
+hash-format = "sha1"
+hash = "b18ccd150e11ac6441ed76456a60928be6feb1c6"
+
+[update]
+[update.modrinth]
+mod-id = "dtWC90iB"
+version = "Qj7qk3hj"

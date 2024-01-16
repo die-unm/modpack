@@ -1,0 +1,8 @@
+name = "minecraft-transit-railway"
+filename = "MTR-fabric-1.19.2-3.3.0-pre-3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/die-unm/Minecraft-Transit-Railway/releases/download/v3.3.0-pre-3/MTR-fabric-1.19.2-3.3.0-pre-3.jar"
+hash-format = "sha256"
+hash = "95c5be28003bbc64c20ca615d61519f37c19c122d40be1c852c90b9ee107e57e"

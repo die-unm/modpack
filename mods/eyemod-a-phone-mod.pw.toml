@@ -1,0 +1,13 @@
+name = "EyeMod - A phone mod (Forge/Fabric) (1.16-1.19.4) + 1.16.5 forge!"
+filename = "1.19.2-fabric-eyemod-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfdc76dbb9e18dede1ee0ea7fd66e9f337cc990b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3960230
+project-id = 580381
