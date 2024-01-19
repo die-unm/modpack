@@ -58,7 +58,7 @@ hash = "f08e306e3d99db21e9e6b274523670d0f1d25281567cec3bbb4b613f2d6cc89a"
 
 [[files]]
 file = "config/mca.json"
-hash = "98a811d59adabe9f98ad8ad96f0507952627887313049fd12c43fdd7c2e25189"
+hash = "c935b7fa506fbefaab03ca5fbfa976eab726dd1f801ae717bd6d4f252be950c9"
 
 [[files]]
 file = "config/mtr_webserver_port.txt"
@@ -66,7 +66,7 @@ hash = "45894a0597e5921734a6f2396750ba2fa0d81d0dfda6e493316b6b71b5dd224a"
 
 [[files]]
 file = "config/paxi/datapacks/unm-data-pack.pw.toml"
-hash = "94a7fbd3d0a509a230c6584a3b33c719e9e64186d75c982ec574d151935145cb"
+hash = "0f3c19f913f44438bd94aa40c196218ad5b1986a76356b8e8876f92c9a756f01"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e75e34f9cbff76ce7a0beb9f70521eef8ae7c2efc498f3f77c45d46f9dd6d5eb"
+hash = "cb393324deb0194fb3a0019f40f1c42f45b295dbbfd118e9e4343f4b0d97244e"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cc63bbe9baff32acc9b74cef66179d78e9187afe625ef25e8faa05f160714257"
+hash = "403f83adc1d50ea946cbbe43f8c87327e6a0979b04f0bc4bc981b27b2617b9a6"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "4c5bd972b05cc171c3ff7f7ab3028f9d05de53238ff5ce5796b742de789dc67b"
+hash = "1506e1c8c0c3f7a37255197dd5589723f8976ffbe70d1425a4c8dd26e70d490c"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "58d3d518b05010500b1dc2e9db5ed3e774dd9ffd72eb21acdce240c95c2622a9"
+hash = "9e1dcac394212eb82bc911654e97c9fb4501120fb72f9bd836a342946e4d88ba"
 metafile = true
 
 [[files]]
@@ -602,11 +602,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
-metafile = true
-
-[[files]]
-file = "mods/moonlight.pw.toml"
-hash = "426b01481aceca23494ba26bfcfef06e0c2e8ddfac83221570ddaca244afa799"
 metafile = true
 
 [[files]]
@@ -707,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "b1fe3bcc792d2fdd27d36f7f8ad61c7c9ac596ca66f27909807a4277b33e7b99"
 metafile = true
 
 [[files]]
