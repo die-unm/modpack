@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
+hash = "ba60d17dd7dba6e8b10cc123bf4fc084bd67847c84a907f5c969f89ee83dd4ef"
 metafile = true
 
 [[files]]
@@ -581,6 +581,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "c5010636eefe733c12ac88cd9b06e48d3963fee438e8901ad3b675c331133720"
 metafile = true
 
 [[files]]
