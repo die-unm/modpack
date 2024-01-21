@@ -49,6 +49,10 @@ file = "config/chunksending.json"
 hash = "f70ff019b2ebd3c4fedeb53513d01b259344d94e831caaa650118e6f8bfee6ca"
 
 [[files]]
+file = "config/createaddition-common.toml"
+hash = "8f4c819acffa767e5a76858b20a9da8f0e2a896638dd111a81b287c23759770e"
+
+[[files]]
 file = "config/fallingtree.json"
 hash = "cb47353e8732187699fcd87adf24a27a44bdff3741c33cfbf412fa2b6c13b5bf"
 
