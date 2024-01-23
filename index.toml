@@ -70,7 +70,7 @@ hash = "45894a0597e5921734a6f2396750ba2fa0d81d0dfda6e493316b6b71b5dd224a"
 
 [[files]]
 file = "config/paxi/datapacks/unm-data-pack.pw.toml"
-hash = "7876b1feff5a407280c4541f6793c7760a22b4f1b854734f831e086423088f39"
+hash = "c351762413f94d64fb69db7c8cf3ebb501f1023a87459e03f4a1941dcf528d32"
 metafile = true
 
 [[files]]
