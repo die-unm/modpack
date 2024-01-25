@@ -214,6 +214,11 @@ hash = "ad4d2ce6ff45cd1a432cd65ab924e9d0c58810f9f31dc1e4f9e91335654ee29f"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "303840c0f81a6564cfae29b3896da5780e7e79f934eaf1d26cc3c89914869b8b"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "7dfb36ec14fa04a295d29faea1f7a8f0ea1863f38f8ebeb0b6b44a34c1e83a10"
 metafile = true
