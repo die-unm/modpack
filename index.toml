@@ -279,6 +279,11 @@ hash = "68f44bc2e787f16f3ab5cf44d8716e6aa3048fd2546a2f4b7ada6e4b64307bab"
 metafile = true
 
 [[files]]
+file = "mods/bushier-flowers.pw.toml"
+hash = "25784745306f13480d5072d167e672c0bae9bf9985b7497a58b887251e7dd447"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
