@@ -1,8 +1,8 @@
 name = "UNM Data Pack"
-filename = "unm-data-pack-1.5.3.zip"
+filename = "unm-data-pack-1.6.0.zip"
 side = "both"
 
 [download]
-url = "https://github.com/die-unm/data-pack-releases/releases/download/v1.5.3/unm-data-pack-1.5.3.zip"
+url = "https://github.com/die-unm/data-pack-releases/releases/download/v1.6.0/unm-data-pack-1.6.0.zip"
 hash-format = "sha256"
-hash = "6a5b6146d889e2a9781c3bc8c6318cde448b06467054b8e8ab38301a6960e9c6"
+hash = "2a6ae5983c7bdae2a7283071f28ba67c02a2ca562260a068431e70d4eab4f937"

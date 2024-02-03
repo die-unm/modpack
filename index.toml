@@ -70,7 +70,7 @@ hash = "45894a0597e5921734a6f2396750ba2fa0d81d0dfda6e493316b6b71b5dd224a"
 
 [[files]]
 file = "config/paxi/datapacks/unm-data-pack.pw.toml"
-hash = "c351762413f94d64fb69db7c8cf3ebb501f1023a87459e03f4a1941dcf528d32"
+hash = "9ab071c985e5f524ae82a43c3a8c87885a416f5e248ecfb2398942c66434fb4b"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
+hash = "d0c7ce5933217a67f3b9771a90c9f013fa5c4f4e82a747d494a50f9a7dc9a702"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits-for-fabric.pw.toml"
-hash = "1c6f60cadb87f28dd67609bf720b1a3564057b5d381898517b7ad4053e46f280"
+hash = "708cbe07ddb39713f96b9e6c19a2f3776904ed3ad71ac7c23eaa96ed1bcc50ac"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "c974107e5aca82929bfaf886bcb5cbc646a9fb57def7fcdf7c6dd90ee7d3787f"
+hash = "e5fcbcb523e016b45567b0807cedbad3aedbbb99a321dcbe23ff53fc454b906f"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "16d63e67fc609fd71738428f3755f716e6d18e31f0afbf99edd26470ea29194b"
+hash = "1774c10f820f4214bf726129751038f7955e0afd8bfd70d8b38df81e4742b9fa"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6c8cb18a2b6ca65d9e00d484a0295c4c68d757f2c00d6c449a86ce936e11513c"
+hash = "8177a47aff4e87511946b64ed2e52454a13d749e0df75ecbdcaef40912b6b497"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "246a888eaf8c8fbeb02dd7b7d5ea6cfc0e6ef38d955602ea8e8c48cd1e300d08"
+hash = "ca789d2cfc2c84300643a791ba71c7c69a893cbddff0e27243ce183e67cbb345"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "87a390f716ac3e7b2e7c9615eaa02ff457654ec1ca90d6edbe63bab614da9dd0"
+hash = "b5a82db59ce3476a0a5476b894365c8de61de65825e0c0c680416724359f629b"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "eb9ed14436b79290cec3dfe2a87c0b32d0f369859ceb98834a24ee580c61da88"
+hash = "1447b2cbf7c1d96fd410f85fdd029c1de4a4f8709d09146e602b6054065e49c0"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b077eceed8adffd07f52209f43e3549f4f3b9324be323d038bca269626620dea"
+hash = "969dcef45857b1d2998b453a3db85c7762151ed23d631c9176e3388e533570e8"
 metafile = true
 
 [[files]]
@@ -804,18 +804,13 @@ hash = "1123edf5dd4b4d27f8c5f86305685f81b70696541750aea24a33b898f948f6cb"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "2e7bb3b4927321974a8b2b1b42458e74dfa467fc9436f5c9e450141fc6a973da"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4596788460ee2cb223d2894242dfe9ab100ece553217a554b17e21cb1a50d99c"
+hash = "37329fd35b3ece9a2ae0cd59cc9c24c804e3e586ccd2e4421cf4c94712ac195b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8d7779f0949f313a104884ad186ea5f21e57d8e089765445eb895463e6f12bbc"
+hash = "cb4369429477472f431d277ffa5cd319dcd8b80dcb82e579dc8f77181c5faaaf"
 metafile = true
 
 [[files]]
