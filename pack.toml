@@ -1,13 +1,13 @@
 name = "UNM"
 author = "UNM"
-version = "2.5.1"
+version = "2.6.0"
 description = "Das Modpack für den UNM-Minecraft-Server"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "aa522ed9fe9ff308b331bc518d0a92bdc48fe4025f41bf55a1f47f3c430b9cbc"
+hash = "9b33ae6c80f8675d090c419aa279aacea570c286e10005b80d3b8499fc80ed2e"
 
 [versions]
 fabric = "0.15.6"

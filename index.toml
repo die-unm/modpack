@@ -135,6 +135,10 @@ file = "config/yosbr/config/mtrsteamloco.json"
 hash = "4744f07c44612c2133e45a4c9c0fa398b980d02f463832f7f00581fca6c32c50"
 
 [[files]]
+file = "config/yosbr/config/now-playing.json5"
+hash = "e4d90f553d8c88a79de861e03ef4cdfb9d9612236b27359f62e24ae7a998209d"
+
+[[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "da4061f3dc565ba21893ea60be1175ac1f7cf2e3709ea4c6604c196a28dd59a2"
 
@@ -181,6 +185,16 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "c7330ba6abcb6f74e184ac970ff66d8efbea5cb3e4cd747b9d1ae14aaac9279e"
+metafile = true
+
+[[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "b6676e184b94a0efda7769df4413c91162341d1fdbcb668857509f20ace34be1"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "bcc01d6329bbe6dc0df4c84a158d940ab1666f83f33100e7cd7d6879276cc15b"
 metafile = true
 
 [[files]]
@@ -334,6 +348,11 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "26dcd1c29f902928f67cbae7e8de2cc7b301469547a023df352c7115a51bd99c"
 metafile = true
@@ -359,6 +378,11 @@ hash = "ea9fa2ee46beaaf768c5c56748e56a868af6d13aa4df867c1febd92eae050c17"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "b28af7cace4880450f325a1681af28c15e6867a6b5d7099e81d402a7f8948cda"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights-fabric.pw.toml"
 hash = "3d71b497e1f227dac878a8c7da90a3868099951a3070bfa95fb4cf293738921a"
 metafile = true
@@ -381,6 +405,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "7fee77c78b53f151b9358666bea9ccb75efc4c5e1ef9f3dee620db3826927f4e"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-music-updated.pw.toml"
+hash = "8a69e20d0330cfcd4c268c6d08fdd3db4f20f287d92462abc660ebed9d29fe0c"
 metafile = true
 
 [[files]]
@@ -420,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "403f83adc1d50ea946cbbe43f8c87327e6a0979b04f0bc4bc981b27b2617b9a6"
+hash = "1e64dd218de208a3dd5c4ba04e3481df9f32e300dd407fa4b805ae310a3f6667"
 metafile = true
 
 [[files]]
@@ -486,6 +515,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
+metafile = true
+
+[[files]]
+file = "mods/free-cam.pw.toml"
+hash = "f74bed143606332cb0101a9dc440533c2ca7d79c11bd5268a25772fa752f389f"
 metafile = true
 
 [[files]]
@@ -654,6 +688,11 @@ hash = "95e09d27ced14fcdc42966a5a75c39c6e3c53f70bea080f0ce6fb88ce9e4818f"
 metafile = true
 
 [[files]]
+file = "mods/now-playing.pw.toml"
+hash = "ee57c778ada6689562b2fdc67abf25f217b8c1d3bf56bdacade1554110f3de83"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "87857d482a7d442c21384f5762bd7e51ad6ee1bda30f01b206dfa2694ca9c8ff"
 metafile = true
@@ -746,6 +785,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "5e37c2458f2f92a16eca8ef74f8bbb82c7e6bd6550eff47fdebfbc608848af74"
 metafile = true
 
 [[files]]
