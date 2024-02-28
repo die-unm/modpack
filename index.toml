@@ -183,6 +183,16 @@ hash = "d0c7ce5933217a67f3b9771a90c9f013fa5c4f4e82a747d494a50f9a7dc9a702"
 metafile = true
 
 [[files]]
+file = "mods/alchemical-drugs.pw.toml"
+hash = "fef316908d12a1e629b437a3f9cd52c2171036214b6b82a2d896196c6ab5223b"
+metafile = true
+
+[[files]]
+file = "mods/alchemistry-fabric.pw.toml"
+hash = "3d4b3d349529dd0d320c624d603822e4e1798b44dabefc26ac056de03756fbff"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "c7330ba6abcb6f74e184ac970ff66d8efbea5cb3e4cd747b9d1ae14aaac9279e"
 metafile = true
@@ -219,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "93ab5cc883afdea0d637ff6222e440656cc075d7a93424840b37588ad1ae46a9"
+hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
@@ -274,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "ba60d17dd7dba6e8b10cc123bf4fc084bd67847c84a907f5c969f89ee83dd4ef"
+hash = "ededb5f6acc81df09989c2bd2e738413372638d66372af51543d7e7cbc2a049b"
 metafile = true
 
 [[files]]
@@ -289,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
-hash = "68f44bc2e787f16f3ab5cf44d8716e6aa3048fd2546a2f4b7ada6e4b64307bab"
+hash = "112c455209d6ec77de8479f2f3008a562f1f4a9020b735d30c892678feaea881"
 metafile = true
 
 [[files]]
@@ -310,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "4023debbe53b41b1326ebbd477c5bafb97c3d03823cea379ee86009a801d5bf5"
+metafile = true
+
+[[files]]
+file = "mods/chemlib-fabric.pw.toml"
+hash = "7ed95a56c3748192cb633dce87d4513c37e5697358d51dd9153b60c0a3a43412"
 metafile = true
 
 [[files]]
@@ -353,6 +368,11 @@ hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
 metafile = true
 
 [[files]]
+file = "mods/convenient-decor.pw.toml"
+hash = "24a812099ce2ad28bd3190b83bb324b4f6daa01662a4df75d052d40201cb6638"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "26dcd1c29f902928f67cbae7e8de2cc7b301469547a023df352c7115a51bd99c"
 metafile = true
@@ -368,13 +388,18 @@ hash = "85177d5ff0334af62a87ae4ec1b175ecbbd478604f99474cf27e84663a52d551"
 metafile = true
 
 [[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "af01b50ead1df7cd3479bef3d13f0d850350ea426f4f02dc610c5d2369143ea8"
+metafile = true
+
+[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "ae5dcb83773308d8a1a727381a6ea07ce49a5b7e5ea2228c7b0a830a08730ce1"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "ea9fa2ee46beaaf768c5c56748e56a868af6d13aa4df867c1febd92eae050c17"
+hash = "837518801c50335a7f89cb00a70dd7343cb52848dbd21ec14e2b6ed6be460d99"
 metafile = true
 
 [[files]]
@@ -403,8 +428,13 @@ hash = "8a62c6eff516c9c85195cf84a166b0087b71be3b64fa7dbd6e669e51c54b89b8"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7fee77c78b53f151b9358666bea9ccb75efc4c5e1ef9f3dee620db3826927f4e"
+hash = "facd724b6a6361131f5b9a4056830e47b6c4cf1642fd14ed6aa7a4faa4d3cd7a"
 metafile = true
 
 [[files]]
@@ -429,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "bac03de638c98bc85c8353b4d386a6d680ff7dad084b04d42dab6ab9b544c99e"
+hash = "1a81f49172b50a84928cb2d006399a306b22b72171af3654562a3aeae7123918"
 metafile = true
 
 [[files]]
@@ -453,6 +483,11 @@ hash = "1e64dd218de208a3dd5c4ba04e3481df9f32e300dd407fa4b805ae310a3f6667"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "18e44e4ca88f3997873f3c44842cac8e1330c9755a7f06238960d86fd40d6949"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
@@ -464,12 +499,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c479d0ff1095b3cc2aa82782f4e98d436bf1e6aa9e64a3f012a3c33d7ac5499"
+hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
 metafile = true
 
 [[files]]
@@ -563,6 +598,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "183ed6f9464264a58d6665a7cc86c4802a81fb0178ee75b02933e415c432f35f"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
 metafile = true
@@ -603,6 +643,16 @@ hash = "c922a4dff188cb5be54bb1fc11d348ecc7ab66d7f18924038f6d2657e2ec73b6"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "5d6a2035537dd50763dc03e8670c29ae9c987d3de5dcec9d7722bcb1c4bfaa19"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "36649503e524c59d80c069fe2786e1e446032c02fb5b8d4e83309c2edee2870c"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
 metafile = true
@@ -634,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "ca789d2cfc2c84300643a791ba71c7c69a893cbddff0e27243ce183e67cbb345"
+hash = "fe2b6bd031e3e348cb338f3ae8a4c2cc816bf186af56c5af94d57935740f9981"
 metafile = true
 
 [[files]]
@@ -675,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/mtr.pw.toml"
 hash = "5bce5b44e1e9316de8342c4282e0ad8998473d4246cf411f2e4ac42698b1b121"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "35e3e1c0a8c44475db5005153bbfdd71bb9fb9280b3f57c86bc5f5320118324c"
 metafile = true
 
 [[files]]
@@ -730,6 +785,11 @@ metafile = true
 [[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "a7bd8273c6ba9b05aa3b9a97680a9ed0d2ab16d585a08cdf2fc74ca2e68b4557"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "e4badf81eabfe1f6cd95e36bc8e3d4a63281f7c97406be76437c2ef49e189f99"
 metafile = true
 
 [[files]]
@@ -818,6 +878,11 @@ hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
 metafile = true
 
 [[files]]
+file = "mods/techreborn.pw.toml"
+hash = "7d4ce0df929ce3534b5b35222a00ee370eb578a7c2acf976a59d6c3614087335"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "64228ac782b244019e700da682e0006e9959f472035252c5a5354e0dc395d1e0"
 metafile = true
@@ -845,6 +910,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "d0ad1f4d4d52d8497ced9130e5f7c66a34c5f1e83f549bc2a05ccabe50ebc9e8"
 metafile = true
 
 [[files]]
