@@ -248,11 +248,6 @@ hash = "7dfb36ec14fa04a295d29faea1f7a8f0ea1863f38f8ebeb0b6b44a34c1e83a10"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "26c770bbc9fbfa86cfd17f3b03ef1f18676ab9dade17ee858c4c60c68480015b"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fa7eed08ecb81a2cc3ec4f9cc5387874936f2496a5739ec71d263a6f26a45c34"
 metafile = true
@@ -333,8 +328,8 @@ hash = "708cbe07ddb39713f96b9e6c19a2f3776904ed3ad71ac7c23eaa96ed1bcc50ac"
 metafile = true
 
 [[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "96839ce1f022513ae2fd9de1554ce2c54d539f44f2f90a7b64f7596219dcb648"
+file = "mods/chunkdebug.pw.toml"
+hash = "09a6f4afa5763c0fcf29ccd813a28f6efc56ecbd90afc11465b14cad3715da73"
 metafile = true
 
 [[files]]
@@ -480,6 +475,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "1e64dd218de208a3dd5c4ba04e3481df9f32e300dd407fa4b805ae310a3f6667"
+metafile = true
+
+[[files]]
+file = "mods/essentialclient.pw.toml"
+hash = "39cf088d6bcfb79e5337d1a69534ddf7e97e046686b671550bdc0c786f6c2b56"
 metafile = true
 
 [[files]]
@@ -830,6 +830,11 @@ metafile = true
 [[files]]
 file = "mods/simply-light.pw.toml"
 hash = "e042a31030aeef75b55c1d23d8728fad0beeffe983c3dfe82200e31c5ca37fa8"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a40876bff3eec24a92727e57ac63fb9e05966f317016f9e7571107292502c254"
 metafile = true
 
 [[files]]
