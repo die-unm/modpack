@@ -343,6 +343,11 @@ hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
+file = "mods/clockwork.pw.toml"
+hash = "12961c5f956472783b9a985ac25067eca7af97568ef43f5af688ee7262f6fbde"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
 metafile = true

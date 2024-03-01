@@ -1,0 +1,8 @@
+name = "Clockwork"
+filename = "clockwork-1.19.2-0.1.6-fabric-7bd15c4749.jar"
+side = "both"
+
+[download]
+url = "https://die-unm.duckdns.org/mods/clockwork-1.19.2-0.1.6-fabric-7bd15c4749.jar"
+hash-format = "sha256"
+hash = "0892cc9444f091da3e818d9651a72edc28bdf6a0c5c7556c5d0dd397b9eb126a"
