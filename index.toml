@@ -66,7 +66,7 @@ hash = "45894a0597e5921734a6f2396750ba2fa0d81d0dfda6e493316b6b71b5dd224a"
 
 [[files]]
 file = "config/paxi/datapacks/unm-data-pack.pw.toml"
-hash = "43ca30352d9673cc11313af10c82a85c145f18bc25d858d053382d26b942107c"
+hash = "754bb22ada72250b7f5c8452e1142daaadb06f318d2b71f82b2087be86b17e9b"
 metafile = true
 
 [[files]]
@@ -837,6 +837,11 @@ hash = "590e350a65f0c6aba510dbcfaf1eab4a0dc1740b19b2e07a5ffef446e89cf1b7"
 metafile = true
 
 [[files]]
+file = "mods/psychedelicraft.pw.toml"
+hash = "11ec335eaff2712a1ec892d894885eedad82505e98b99e8114b37da83529fe4e"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "02afa656e08ce408c1b541e60d9126b8bac35b55a26950547291ee8f54c1899d"
 metafile = true
@@ -949,6 +954,11 @@ metafile = true
 [[files]]
 file = "mods/tabtps.pw.toml"
 hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
+metafile = true
+
+[[files]]
+file = "mods/tardis-refined.pw.toml"
+hash = "72e0a811e28ef339e7507a854fb75e6f0a5b718bd5e834e3dcfba7ceddefa736"
 metafile = true
 
 [[files]]

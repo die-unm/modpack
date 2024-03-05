@@ -1,0 +1,14 @@
+name = "Psychedelicraft"
+filename = "psychedelicraft-1.6.6+1.19.2.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "fdbd13eda0cf3665d02a9a3e42d060aa1326fd1e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4717903
+project-id = 224601
