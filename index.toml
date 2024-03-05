@@ -743,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b5a82db59ce3476a0a5476b894365c8de61de65825e0c0c680416724359f629b"
+hash = "8ab2cd08567bb49f2e8fec1ee42036a3897e259e2b5c2ddd7f15bf1835be1c24"
 metafile = true
 
 [[files]]
@@ -924,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "4df01b2c1d5c78275f4653c2ad268196697450db9cdc5ee5df0180e62626fa6f"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
 metafile = true
 
 [[files]]
