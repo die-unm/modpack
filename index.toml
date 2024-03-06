@@ -41,6 +41,10 @@ file = "config/bluemap/webserver.conf"
 hash = "09fad9aeca68d577a5217f24341fddcb7d28f9daac7487ffff752dc7a463e5ac"
 
 [[files]]
+file = "config/cavedweller.toml"
+hash = "cc2e93e99ace6cc9425248edb0af735b59450e592ec2aa98e5c6fc0fe754e6c5"
+
+[[files]]
 file = "config/createaddition-common.toml"
 hash = "19fd45b0d90370d8922e2b3b788d5d4a00b854d34ff3229d4c086c0b29f39cd1"
 
@@ -258,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "9aad0aeed9cb635aa6e1c96880f3eefb15c319dd3d38e6731ac2fc41d50a4adc"
+hash = "58b53a13cf0fbce0395cc2f69cebd0a2d0008a1ec8e21970e05cc780f8ceecfe"
 metafile = true
 
 [[files]]
@@ -304,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
+metafile = true
+
+[[files]]
+file = "mods/cave-dweller-fabric.pw.toml"
+hash = "cbf139ddafe8aee4d7ee320c1afcdeb6faa35492438d8a69ab94fa2ff39f4b18"
 metafile = true
 
 [[files]]
@@ -773,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr.pw.toml"
-hash = "5bce5b44e1e9316de8342c4282e0ad8998473d4246cf411f2e4ac42698b1b121"
+hash = "d75e172187efbe7cc45c546e964e9e99a957a35c59117d1ab585b42619aadf4b"
 metafile = true
 
 [[files]]
