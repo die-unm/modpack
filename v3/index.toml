@@ -119,7 +119,7 @@ hash = "da6adb7242b31087cb77ede1a1d3bca5096cbb9033f9e24028de72212b3a287a"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "0f837dda0365b3bb0210f3c52661099f068b0220b0486a0fd1c5a8e09c726515"
+hash = "3ec85bfe4ffb2255391cfc36c4a3ff9ad27fc5f0e4949e04e864c8ad32583da8"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "f92eaed618c8478154731ad807434ad7c577b2330e720771695df5bd2b17a1bb"
+hash = "fdde87c3450325f15a72576976f305ca943953650b4c2b63e52186ad54c50307"
 metafile = true
 
 [[files]]
