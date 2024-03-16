@@ -38,7 +38,7 @@ hash = "e2e47e8c188cdbac30d9591739c5802b590d9da36c83db3df1c2ce6f72a00fdf"
 
 [[files]]
 file = "config/defaultsettings/Default/stepup.cfg"
-hash = "c59fa445ef7a440b584079c52254d934fe1822b7b51d91acf1a3de625379663a"
+hash = "c5859c8f73381b72c381ba32640135eb7605282b17cd8bd12222ee746b497856"
 
 [[files]]
 file = "config/doubleslabs-client.toml"
