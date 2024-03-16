@@ -1,6 +1,6 @@
 name = "Flywheel (Legacy)"
 filename = "flywheel-1.16-0.2.5.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
