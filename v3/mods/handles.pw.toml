@@ -1,0 +1,13 @@
+name = "Handles"
+filename = "handles-1.16.5-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zYnlJN4c/versions/ObE2iI5x/handles-1.16.5-1.7.0.jar"
+hash-format = "sha1"
+hash = "889a1c70caa2ecf79ea8cfab79a09bd163fdd79f"
+
+[update]
+[update.modrinth]
+mod-id = "zYnlJN4c"
+version = "ObE2iI5x"

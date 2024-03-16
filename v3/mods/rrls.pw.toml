@@ -1,0 +1,13 @@
+name = "Remove Reloading Screen"
+filename = "Rrls-1.5.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZP7xHXtw/versions/MzxykxhG/Rrls-1.5.1-forge.jar"
+hash-format = "sha1"
+hash = "8ce43e9370a4a3603f24209180570266dd6e9dd3"
+
+[update]
+[update.modrinth]
+mod-id = "ZP7xHXtw"
+version = "MzxykxhG"

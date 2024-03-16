@@ -1,0 +1,13 @@
+name = "AttributeFix"
+filename = "AttributeFix-1.16.5-10.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lOOpEntO/versions/8us1FakC/AttributeFix-1.16.5-10.1.4.jar"
+hash-format = "sha1"
+hash = "a2a8e60fc37df2a11eb2931dc621d60dc535b54d"
+
+[update]
+[update.modrinth]
+mod-id = "lOOpEntO"
+version = "8us1FakC"

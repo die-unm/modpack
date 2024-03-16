@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-1.16.5-5.8.5p7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/krK4RIBr/journeymap-1.16.5-5.8.5p7.jar"
+hash-format = "sha1"
+hash = "1816cfea2dc6df2026113b1b5dd15808b9c3ea1a"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "krK4RIBr"

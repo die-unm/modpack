@@ -1,0 +1,13 @@
+name = "Screenshot to Clipboard"
+filename = "screenshot-to-clipboard-1.0.7-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1KiJRrTg/versions/1.0.7%2Bforge/screenshot-to-clipboard-1.0.7-forge.jar"
+hash-format = "sha1"
+hash = "81688f2ea3ddee5992309381faaeda0c07983a3b"
+
+[update]
+[update.modrinth]
+mod-id = "1KiJRrTg"
+version = "RUKPaOij"

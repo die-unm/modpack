@@ -1,0 +1,14 @@
+{
+  "version": "4.0.7",
+  "prevVersion": "none",
+  "generatedBy": "38099883-e8c1-4c43-b91a-e1ce275b32e4",
+  "hashes": {
+    "Default/stepup.cfg": "344165C717B064A708AC7F526844FF42",
+    "Default/hourglass-client.toml": "59B954E8D9C57078E5AD6428C122E04D",
+    "Default/sodium-extra-options.json": "3FED9DC60093AB1B79994E20AF57A408",
+    "Default/DistantHorizons.toml": "E250036CB44EDB36D5452CE4161C42AA",
+    "Default/betterf3.toml": "1F92CB506C69C97936F38C4FD7CD990D"
+  },
+  "mainProfile": "Default",
+  "initially_created": "15.03.2024 22:27:50"
+}

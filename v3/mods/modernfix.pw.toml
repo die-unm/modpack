@@ -1,0 +1,13 @@
+name = "ModernFix"
+filename = "modernfix-forge-5.14.0+mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/uazja51B/modernfix-forge-5.14.0%2Bmc1.16.5.jar"
+hash-format = "sha1"
+hash = "c624cac2da5a48abf17ea67f2db2380480705214"
+
+[update]
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "uazja51B"

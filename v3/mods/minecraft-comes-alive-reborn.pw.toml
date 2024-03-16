@@ -1,0 +1,13 @@
+name = "MCA Reborn"
+filename = "minecraft-comes-alive-7.3.23+1.16.5-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1W98a849/versions/tOWiRgB0/minecraft-comes-alive-7.3.23%2B1.16.5-universal.jar"
+hash-format = "sha1"
+hash = "01c63f533fc0c9ee0c525d0450e88962de489472"
+
+[update]
+[update.modrinth]
+mod-id = "1W98a849"
+version = "tOWiRgB0"

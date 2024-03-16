@@ -1,0 +1,13 @@
+name = "Alex's Delights"
+filename = "Alex's Delights 1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de7718a50bb6bd36e9177b0d33a987d52cfea1f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3563715
+project-id = 556636

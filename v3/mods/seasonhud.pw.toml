@@ -1,0 +1,13 @@
+name = "SeasonHUD"
+filename = "seasonhud-1.16.5-1.4.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VNjUn3NA/versions/S9UOaY15/seasonhud-1.16.5-1.4.20.jar"
+hash-format = "sha1"
+hash = "32972ba5e4bab4fc0c10bf557a392e85d3813aab"
+
+[update]
+[update.modrinth]
+mod-id = "VNjUn3NA"
+version = "S9UOaY15"

@@ -1,0 +1,13 @@
+name = "Bigger Chat History"
+filename = "biggerchathistory_1.0.0_MC_1.16.2-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35ca37001d8586b3167a0184a0ed05151547dea9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3296113
+project-id = 390206

@@ -1,0 +1,13 @@
+name = "Even More Instruments!"
+filename = "evenmoreinstruments-fabric-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mcs3cqJ1/versions/pophxK2K/evenmoreinstruments-fabric-1.19.2-3.0.jar"
+hash-format = "sha1"
+hash = "9f7e33cf758ea0a1afeef5d07f0159ee221dfbbb"
+
+[update]
+[update.modrinth]
+mod-id = "Mcs3cqJ1"
+version = "pophxK2K"

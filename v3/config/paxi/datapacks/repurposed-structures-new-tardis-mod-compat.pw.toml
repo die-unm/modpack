@@ -1,0 +1,13 @@
+name = "Repurposed Structures - New TARDIS Mod Compat"
+filename = "Repurposed_Structures-Tardis.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1RD4JPtf/versions/z5ezCWCr/Repurposed_Structures-Tardis.zip"
+hash-format = "sha1"
+hash = "78b28cb8465794f698325b2fdce94c663b5ac325"
+
+[update]
+[update.modrinth]
+mod-id = "1RD4JPtf"
+version = "z5ezCWCr"

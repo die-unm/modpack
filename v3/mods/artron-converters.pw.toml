@@ -1,0 +1,13 @@
+name = "Artron Converters"
+filename = "artrongen-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec89c8a65a483090f201ab949ebb2eb716135ece"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5165777
+project-id = 541078

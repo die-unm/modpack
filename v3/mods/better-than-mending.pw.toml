@@ -1,0 +1,13 @@
+name = "Better Than Mending"
+filename = "BetterThanMending-1.6.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lvv4SHrK/versions/1.6.0/BetterThanMending-1.6.0.jar"
+hash-format = "sha1"
+hash = "418976f84f6dc23d666e1fc7d0555e34c706b920"
+
+[update]
+[update.modrinth]
+mod-id = "Lvv4SHrK"
+version = "lGgukBwE"

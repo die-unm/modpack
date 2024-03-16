@@ -1,0 +1,16 @@
+name = "UNM"
+author = "UNM"
+version = "3.0.0-alpha.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "522a230e458d3545877e89d6d4708fbc312846e5daab7e4a7684856127af94fa"
+
+[versions]
+forge = "36.2.42"
+minecraft = "1.16.5"
+
+[options]
+datapack-folder = "config/paxi/datapacks"

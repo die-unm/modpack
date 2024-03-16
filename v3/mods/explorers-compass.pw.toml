@@ -1,0 +1,13 @@
+name = "Explorer's Compass"
+filename = "ExplorersCompass-1.16.5-1.1.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fe00c72b953180106b44d2a841372d2e6f82cd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3412474
+project-id = 491794

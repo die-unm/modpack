@@ -1,0 +1,13 @@
+name = "Forge Config Screens [Forge & Fabric]"
+filename = "ConfigMenusForge-v1.2.0-1.16.5-Forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "4497532d3c175dc8a1b6d4cc115caa81a574d30d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3520850
+project-id = 544048

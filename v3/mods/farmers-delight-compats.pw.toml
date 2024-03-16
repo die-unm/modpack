@@ -1,0 +1,13 @@
+name = "Farmer's Delight Compats"
+filename = "farmersdelightintegrations-1.16.5-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e13f4cf8c69060c8aa34355c639cca8ef71ef7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3439904
+project-id = 455519

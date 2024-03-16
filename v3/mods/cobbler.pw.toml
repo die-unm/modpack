@@ -1,0 +1,13 @@
+name = "Shulker's Faithful Factories (Previously Cobbler)"
+filename = "cobbler-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e558931275d7cbba9998fde8449a22d64908a26e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3132033
+project-id = 380136

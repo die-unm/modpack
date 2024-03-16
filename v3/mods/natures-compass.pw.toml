@@ -1,0 +1,13 @@
+name = "Nature's Compass"
+filename = "NaturesCompass-1.16.5-1.9.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fPetb5Kh/versions/o0SCfsMe/NaturesCompass-1.16.5-1.9.1-forge.jar"
+hash-format = "sha1"
+hash = "38c37c257dcdcf47d5b363eb3e39eebc645b7be4"
+
+[update]
+[update.modrinth]
+mod-id = "fPetb5Kh"
+version = "o0SCfsMe"

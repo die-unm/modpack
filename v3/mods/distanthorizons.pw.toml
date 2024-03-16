@@ -1,0 +1,8 @@
+name = "distanthorizons"
+filename = "DistantHorizons-2.0.2-a-dev-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://die-unm.mywire.org/modpacks/DistantHorizons-2.0.2-a-dev-1.16.5.jar"
+hash-format = "sha256"
+hash = "a556d70d023401800e71bb60ac27b3f92e447c44520950c1bba31efc58991306"

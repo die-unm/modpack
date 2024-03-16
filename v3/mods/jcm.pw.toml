@@ -1,0 +1,13 @@
+name = "Joban Client Mod"
+filename = "Joban-Client-Mod-1.16.5-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/AZx6EK9y/Joban-Client-Mod-1.16.5-1.2.2.jar"
+hash-format = "sha1"
+hash = "d3f9f41ac709ae0d265088c55fa66255226f2098"
+
+[update]
+[update.modrinth]
+mod-id = "lQqKCDhg"
+version = "AZx6EK9y"

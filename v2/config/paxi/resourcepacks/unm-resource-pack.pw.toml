@@ -1,0 +1,8 @@
+name = "UNM Resource Pack"
+filename = "unm-resource-pack-1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://github.com/die-unm/resource-pack-releases/releases/download/v1.0.0/unm-resource-pack-1.0.0.zip"
+hash-format = "sha256"
+hash = "63e11498a55587214a01540ac2a3941c51503ff1acbe127568fe911e2c5d55c6"
