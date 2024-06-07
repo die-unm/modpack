@@ -87,7 +87,7 @@ hash = "fb5ff1984232edecfce6fbfa6deb6374bcd7bf898f58d2c51b9e46cbbbbb78fe"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "ed1a65af03226035acc98bdf99d2a4cc001f01a53cdc707376d3f2495057870c"
+hash = "b2c3990a145e0052c8002c96b0721fc24d2aecebd60af458fce4cb937250934e"
 
 [[files]]
 file = "configureddefaults/servers.dat"
@@ -466,11 +466,6 @@ hash = "ef83ed72d76fc288e9f3beaa24569bad7c5ea7cf1014c2cc0460a76c46c5703e"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "4e7359568382843485cb04c9efffe03d9abf3cb287a8bc067e498429c72fba19"
-metafile = true
-
-[[files]]
 file = "mods/experimental-settings-disabler.pw.toml"
 hash = "89084ab71f9a1f656799a58b9cbb53801fd883c60f75f97f777c5beb87e4cfaf"
 metafile = true
@@ -791,11 +786,6 @@ hash = "3e801878ddaf67fddccf599fe9c1e23e3df39f633e90d68c76a49905d55c2925"
 metafile = true
 
 [[files]]
-file = "mods/pl3xmap.pw.toml"
-hash = "9aac4b51e69e4c0f7e0e7de729b7d8b4b49064cca36fc094bb8caead47efe64e"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
@@ -943,11 +933,6 @@ metafile = true
 [[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "0d33b2f5dd7ea035ea85d384eea91459c4d6266d1848082e85cc23dc09424b02"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
 metafile = true
 
 [[files]]

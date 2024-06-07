@@ -203,8 +203,6 @@ key_key.securitycraft.cameraEmitRedstone:key.keyboard.r
 key_key.securitycraft.cameraActivateNightVision:key.keyboard.n
 key_key.securitycraft.setDefaultViewingDirection:key.keyboard.u
 key_key.ryoamiclights.dyn_light:key.keyboard.unknown
-key_key.valkyrienskies.ship_down:key.keyboard.v
-key_key.valkyrienskies.ship_cruise:key.keyboard.c
 key_key.immersive_aircraft.fallback_control_left:key.keyboard.unknown
 key_key.immersive_aircraft.fallback_control_right:key.keyboard.unknown
 key_key.immersive_aircraft.fallback_control_forward:key.keyboard.unknown
