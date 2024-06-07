@@ -1,0 +1,13 @@
+name = "StepItUp"
+filename = "stepitup-2.0.1-1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9ggA4qiy/versions/cbQ9O3rb/stepitup-2.0.1-1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "bb0d0a8f7f2325aa92eaa204a6a463e0da574bbd"
+
+[update]
+[update.modrinth]
+mod-id = "9ggA4qiy"
+version = "cbQ9O3rb"

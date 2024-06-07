@@ -1,13 +1,13 @@
 name = "Better Ping Display [Forge]"
-filename = "BetterPingDisplay-1.16.5-1.0.jar"
+filename = "BetterPingDisplay-1.20.1-1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/54hP8dMy/BetterPingDisplay-1.16.5-1.0.jar"
+url = "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/jXuIS25Y/BetterPingDisplay-1.20.1-1.1.jar"
 hash-format = "sha1"
-hash = "455189969fa4aa9c0507be242c2f29efc9eeb1c0"
+hash = "6347a5bff9405c59ec7d428e5e24115f5b17a90b"
 
 [update]
 [update.modrinth]
 mod-id = "ZvaHbwoZ"
-version = "54hP8dMy"
+version = "jXuIS25Y"

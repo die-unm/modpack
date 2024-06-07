@@ -1,13 +1,13 @@
 name = "Enchantment Descriptions"
-filename = "EnchantmentDescriptions-1.16.5-7.1.25.jar"
-side = "both"
+filename = "EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/zzrCQ69V/EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar"
 hash-format = "sha1"
-hash = "3ecfff9d4ec0af628a33b96087b65cdd9ae8f813"
-mode = "metadata:curseforge"
+hash = "d7d874a5c2da9467f1c771ddc7fac747c8af2372"
 
 [update]
-[update.curseforge]
-file-id = 5014840
-project-id = 250419
+[update.modrinth]
+mod-id = "UVtY3ZAC"
+version = "zzrCQ69V"

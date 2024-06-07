@@ -1,13 +1,13 @@
 name = "Better Advancements"
-filename = "BetterAdvancements-1.16.5-0.1.1.115.jar"
+filename = "BetterAdvancements-1.20.1-0.3.2.162.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/vhpXnjE2/BetterAdvancements-1.20.1-0.3.2.162.jar"
 hash-format = "sha1"
-hash = "7b1729250d87eb0be895687d60d313ccb9831ab2"
-mode = "metadata:curseforge"
+hash = "84a6293b9b662c93aa30aa047436b6d8c19e5088"
 
 [update]
-[update.curseforge]
-file-id = 3404330
-project-id = 272515
+[update.modrinth]
+mod-id = "Q2OqKxDG"
+version = "vhpXnjE2"

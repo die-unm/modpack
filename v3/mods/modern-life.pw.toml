@@ -1,13 +1,13 @@
 name = "Modern Life"
-filename = "modernlife-1.16.5-1.51.jar"
+filename = "modernlife-1.20.1-1.69.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c7ca9692d3a38cd1765fbe48c178390e1b562cde"
+hash = "f8bff68cd062efb4de0791eaae2c3e6ce9fce4c4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3764334
+file-id = 5368035
 project-id = 483050

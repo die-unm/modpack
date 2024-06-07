@@ -1,0 +1,17 @@
+{
+  "trees": {
+    "breakMode": "FALL_ITEM",
+    "detectionMode": "ABOVE_CUT",
+    "maxScanSize": 500,
+    "maxSize": 100
+  },
+  "enchantment": {
+    "registerEnchant": false,
+    "registerSpecificEnchant": false,
+    "requireEnchantment": false
+  },
+  "sneakMode": "SNEAK_DISABLE",
+  "breakInCreative": true,
+  "lootInCreative": true,
+  "notificationMode": "ACTION_BAR"
+}

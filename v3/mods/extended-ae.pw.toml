@@ -1,0 +1,13 @@
+name = "Extended AE"
+filename = "ExtendedAE-1.20-1.1.5-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JiOqfoFM/versions/soBlHsUw/ExtendedAE-1.20-1.1.5-forge.jar"
+hash-format = "sha1"
+hash = "d72d55faaf25c18f4a8c4ad155d4ff2701bb2e81"
+
+[update]
+[update.modrinth]
+mod-id = "JiOqfoFM"
+version = "soBlHsUw"

@@ -1,0 +1,13 @@
+name = "TARDIM"
+filename = "tardim-1.2.2_-_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PUTZNvkz/versions/l3vXmUwf/tardim-1.2.2_-_1.20.1.jar"
+hash-format = "sha1"
+hash = "803fcdce677188605fe198b8124b10808c1457bf"
+
+[update]
+[update.modrinth]
+mod-id = "PUTZNvkz"
+version = "l3vXmUwf"

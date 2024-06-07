@@ -1,0 +1,11 @@
+["Temperature Preferences"]
+#Sets all temperatures to be displayed in Celsius
+Celsius = true
+
+[Misc]
+#Show the config menu button in the Options menu
+"Enable In-Game Config" = false
+#Warns the player about a bug that clears armor insulation when in creative mode
+"Enable Creative Mode Warning" = true
+#Displays areas that the Hearth is affecting when the F3 debug menu is open
+"Hearth Debug" = true

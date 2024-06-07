@@ -1,13 +1,13 @@
-name = "Better Mods Button [Forge]"
-filename = "BetterModsButton-v1.0.5-1.16.5-Forge.jar"
+name = "Better Mods Button"
+filename = "BetterModsButton-v8.0.2-1.20.1-Forge.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/KUZAAwdD/versions/bSoVaTgS/BetterModsButton-v8.0.2-1.20.1-Forge.jar"
 hash-format = "sha1"
-hash = "0420d2e1633ee458d64e67035287fbcc081d57cd"
-mode = "metadata:curseforge"
+hash = "74eec3644288d57ad1c64fff2551ca82d0b959c0"
 
 [update]
-[update.curseforge]
-file-id = 3519038
-project-id = 541584
+[update.modrinth]
+mod-id = "KUZAAwdD"
+version = "bSoVaTgS"

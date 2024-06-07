@@ -1,13 +1,13 @@
 name = "Zume"
-filename = "zume-0.17.0.jar"
+filename = "zume-0.19.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/o6qsdrrQ/versions/RasOoR0k/zume-0.17.0.jar"
+url = "https://cdn.modrinth.com/data/o6qsdrrQ/versions/X9nnU40F/zume-0.19.1.jar"
 hash-format = "sha1"
-hash = "098f38d7d27aadf35eaa3a68f65126b6fc617907"
+hash = "58b31b218abb3e125ba1a5a049523e3484b568b8"
 
 [update]
 [update.modrinth]
 mod-id = "o6qsdrrQ"
-version = "RasOoR0k"
+version = "X9nnU40F"

@@ -1,0 +1,6 @@
+["Grace Period Details"]
+#The number of ticks after the player spawns during which they are immune to temperature effects
+#Range: > 0
+"Grace Period Length" = 24000
+#Enables the grace period
+"Grace Period Enabled" = true
