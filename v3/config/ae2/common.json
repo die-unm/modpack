@@ -1,0 +1,6 @@
+{
+  "general": {
+    "channels_comment": "Changes the channel capacity that cables provide in AE2.",
+    "channels": "infinite"
+  }
+}
