@@ -83,7 +83,7 @@ hash = "a0ee47f31baa8a99c26726fd5cfab4ff33a3983ae50591f20b448ecd60827f2e"
 
 [[files]]
 file = "configureddefaults/config/coldsweat/client.toml"
-hash = "bfb984c187dc5c7062191723f023f799b04f30bd6cbf82226db6e3d403ee8e0e"
+hash = "091e26e09f3d4369b3ea433c30fd4569e020e5e44ca939c36b6818edc2767069"
 
 [[files]]
 file = "configureddefaults/config/securitycraft-client.toml"
@@ -95,7 +95,7 @@ hash = "fb5ff1984232edecfce6fbfa6deb6374bcd7bf898f58d2c51b9e46cbbbbb78fe"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "25360381fc8f5b1976545a73583c8145777ecd53f8e6e7a8b74faa866be71416"
+hash = "ed1a65af03226035acc98bdf99d2a4cc001f01a53cdc707376d3f2495057870c"
 
 [[files]]
 file = "configureddefaults/servers.dat"
