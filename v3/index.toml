@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "d1037d782d8d142bbda04c4eacbf53c75d04d1de822149b3e3a709f228ac87ae"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "3f1ade47711da2edc0b925af0a994b123ed36f066d867b6ee542449516a24a8a"
-
-[[files]]
 file = "config/ae2/common.json"
 hash = "3145b65ee42030176d1a534d7810117e63f71ee80c84cfa565a85ba87d0b6d24"
 
@@ -706,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "c823b8ecc940de35aaa2ac7bc8e45842f0b130b388e2aa80dd6e4b57a89773aa"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "1c1647107ae5db53cfb3a89dfef655b83ed2ab64d96efb12f88ab722ea42069c"
 metafile = true
 
 [[files]]
