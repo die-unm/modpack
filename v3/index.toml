@@ -98,6 +98,10 @@ file = "configureddefaults/options.txt"
 hash = "25360381fc8f5b1976545a73583c8145777ecd53f8e6e7a8b74faa866be71416"
 
 [[files]]
+file = "configureddefaults/servers.dat"
+hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "d32b84b75dd1380d3f679f66a3c808ec50c86712fab9e87f61239008e6e0321d"
 
