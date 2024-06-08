@@ -225,6 +225,11 @@ hash = "9e6761574474435f1db47112ecb2eeb988fca3ff68e0e861d7631fc2896eba2f"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "12ab8014acd0c153a9f7c0363601512b7d5ff5c1ae693a86eee62c490da99c3b"
+metafile = true
+
+[[files]]
 file = "mods/boat-break-fix.pw.toml"
 hash = "a260a1dde338918568cbbc8bca0d771005db10a0f6bd142e76185550c59b2160"
 metafile = true
@@ -912,11 +917,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
-metafile = true
-
-[[files]]
-file = "mods/squaremap.pw.toml"
-hash = "bbe6d7e01c4c2d99d3b370ce1c084c76a4b8a0ecc93a6251a696cdd9f2a5cd8e"
 metafile = true
 
 [[files]]
