@@ -225,11 +225,6 @@ hash = "9e6761574474435f1db47112ecb2eeb988fca3ff68e0e861d7631fc2896eba2f"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
-hash = "12ab8014acd0c153a9f7c0363601512b7d5ff5c1ae693a86eee62c490da99c3b"
-metafile = true
-
-[[files]]
 file = "mods/boat-break-fix.pw.toml"
 hash = "a260a1dde338918568cbbc8bca0d771005db10a0f6bd142e76185550c59b2160"
 metafile = true
@@ -812,6 +807,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "3e801878ddaf67fddccf599fe9c1e23e3df39f633e90d68c76a49905d55c2925"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "9aac4b51e69e4c0f7e0e7de729b7d8b4b49064cca36fc094bb8caead47efe64e"
 metafile = true
 
 [[files]]

@@ -1,8 +1,0 @@
-name = "bluemap"
-filename = "BlueMap-5.0-forge-1.20.jar"#
-side = "server"
-
-[download]
-url = "https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v5.0/BlueMap-5.0-forge-1.20.jar"
-hash-format = "sha256"
-hash = "9c595f1bd0c849caaf3fcdfc34b40eca65c4cfbb2759c64f930ed472127219d4"
