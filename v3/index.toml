@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "9ed280bc43df241b65368d2f2a5393aa1e1cd01958b429f800fc90a6c624c75b"
+hash = "da2259b18aa5a4b1aa16cdc181b3c2c75bfe0dcaa169bf98e34e62997e46bd9f"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c823b8ecc940de35aaa2ac7bc8e45842f0b130b388e2aa80dd6e4b57a89773aa"
+hash = "65dee8de8b0e62baa6b1e925a49021297d5b07f5d857962e80f8ee8a1801d968"
 metafile = true
 
 [[files]]
@@ -807,11 +807,6 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "3e801878ddaf67fddccf599fe9c1e23e3df39f633e90d68c76a49905d55c2925"
-metafile = true
-
-[[files]]
-file = "mods/pl3xmap.pw.toml"
-hash = "9aac4b51e69e4c0f7e0e7de729b7d8b4b49064cca36fc094bb8caead47efe64e"
 metafile = true
 
 [[files]]
@@ -917,6 +912,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
+file = "mods/squaremap.pw.toml"
+hash = "bbe6d7e01c4c2d99d3b370ce1c084c76a4b8a0ecc93a6251a696cdd9f2a5cd8e"
 metafile = true
 
 [[files]]
