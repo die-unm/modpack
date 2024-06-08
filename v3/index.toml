@@ -810,6 +810,11 @@ hash = "3e801878ddaf67fddccf599fe9c1e23e3df39f633e90d68c76a49905d55c2925"
 metafile = true
 
 [[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "9aac4b51e69e4c0f7e0e7de729b7d8b4b49064cca36fc094bb8caead47efe64e"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
