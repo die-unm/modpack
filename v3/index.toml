@@ -70,6 +70,10 @@ file = "config/tectonic.json"
 hash = "348e236eb5e01f2373962c6f3d7c7cee4366f982c8bb2d6479cda4d0270cc402"
 
 [[files]]
+file = "configureddefaults/config/DistantHorizons.toml"
+hash = "658a7f5c7ac77358f8d55e864ce13206ed991af65e2ed6f013420254de319ac2"
+
+[[files]]
 file = "configureddefaults/config/betterf3.toml"
 hash = "a0ee47f31baa8a99c26726fd5cfab4ff33a3983ae50591f20b448ecd60827f2e"
 
@@ -378,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "19fa105045a5a918e7ab4bc74ab58b6056f764856dd6f46ce95006e16cb41fd4"
 metafile = true
 
 [[files]]
