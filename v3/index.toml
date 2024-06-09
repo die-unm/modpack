@@ -13,6 +13,10 @@ file = "config/fallingtree.json"
 hash = "8094455d2dbfd9581e3a67888a52ddb6c7d678ae3013339bbaca4efbaf74f08d"
 
 [[files]]
+file = "config/iammusicplayer.toml"
+hash = "9742f59d84d3b09208c5de78d7d757e395a2a6f60289e3f02e6212d1c0d0b7ef"
+
+[[files]]
 file = "config/k_turrets-common.toml"
 hash = "bc28e3993a3b9a9b7627333c44359a224e139743dcba246fbb3e24f6fd7a8f16"
 
@@ -99,7 +103,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "a824b718ed9393f39232ed53b8937c400a1862bced9d51acdf7666a7477d8b84"
+hash = "4dd88e7f763be3965391a3a90ddaff7e56786fbfd226b63a096d66832e9e96cd"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -108,6 +112,10 @@ hash = "4745e507c92b4c28b5e6015d33b17ba8c721bd04c21db733a41395ac5b425715"
 [[files]]
 file = "kubejs/data/ae2/worldgen/structure_set/meteorite.json"
 hash = "83c606b468e860e3566cbb839ad1a07bbddb59096a17adcbd5f619e645e9ce5e"
+
+[[files]]
+file = "kubejs/server_scripts/createoreexcavation.js"
+hash = "66e9261425f3c12bc404793446b8f00c0c6e6862f0f64a1269c576de9675eb3e"
 
 [[files]]
 file = "mods/ae2-things-forge.pw.toml"
@@ -446,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
+hash = "16b1f287be4abaefb276f61579afe65513cb5a08a647cca28014e892e9ef6324"
 metafile = true
 
 [[files]]
@@ -796,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "7b1192ecd2cf1486cac111b51dc85645569be302d7a0e2d8d409fd71ccf207e1"
+hash = "fb2852ba6ddcc326e27cbd7e094d4a482b8e459cfdf6c6d72dbe8f3e8d329169"
 metafile = true
 
 [[files]]
@@ -847,6 +855,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "5dda75dca603e02ab51756805dd28ad878b9ac777a9a6313c1fc031aa7c10967"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
 metafile = true
 
 [[files]]
