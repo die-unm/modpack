@@ -103,7 +103,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "4dd88e7f763be3965391a3a90ddaff7e56786fbfd226b63a096d66832e9e96cd"
+hash = "a2e530eeb74ee5648a22f0ec31e01e5aacb63e88bfc5b7c5e01ca0993afd7f70"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "5531003c3544a332c88764091e2f1804406907ba9c798a986a8744cebecf285f"
+hash = "b8be57a9d090d9afce88c71c18fa9c98021d100923de98ec00e5b9c8b6d0f790"
 metafile = true
 
 [[files]]
@@ -459,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "5e3e6bd38266786f78f570307f54ab49bfc6337a0e6667d2635d3407c857ff86"
+hash = "06d256abd0094d08915ac3ffeb6b81b837f2dfdb5c29f9ba66f549a6431e4046"
 metafile = true
 
 [[files]]
@@ -508,6 +508,11 @@ hash = "ef83ed72d76fc288e9f3beaa24569bad7c5ea7cf1014c2cc0460a76c46c5703e"
 metafile = true
 
 [[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "53ce2ea0630b056a181a3e901bbcece064f375609e12ae6c4d74758cddd8fdc7"
+metafile = true
+
+[[files]]
 file = "mods/experimental-settings-disabler.pw.toml"
 hash = "89084ab71f9a1f656799a58b9cbb53801fd883c60f75f97f777c5beb87e4cfaf"
 metafile = true
@@ -515,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "cf35640e350078e8cd7b29f727c3227aeb0b465f0fba9a266e6cbe15dadc4955"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "ebb242e321ae99b8802c08adcd82cc7fadbe89234749f5d7543264b1bc53661b"
 metafile = true
 
 [[files]]
@@ -559,7 +569,12 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e4d08b3c4858f3ad79ae779eb8be71534883e88b95fd59462ecce7f59cd72184"
+hash = "47e3c49469a9d986ba9cf9400c49673644278cb4864602ff5094abd01130612f"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
 metafile = true
 
 [[files]]
@@ -905,6 +920,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "57738899c3f550796ca3488d548b91ad713f7235bf8ac77245dc0f0fba3bea90"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0ba94a262f7f8ec584fdf46363c7c2a13f5b23610c8cee9a5423d1ab4a9b19ae"
 metafile = true
 
 [[files]]
