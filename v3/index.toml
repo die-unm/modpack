@@ -9,10 +9,6 @@ file = "config/citadel-common.toml"
 hash = "08223cd42cd90a3f06e18a0b3237feb18f6a3d77440872299faadb7fc08da2d3"
 
 [[files]]
-file = "config/fallingtree.json"
-hash = "8094455d2dbfd9581e3a67888a52ddb6c7d678ae3013339bbaca4efbaf74f08d"
-
-[[files]]
 file = "config/iammusicplayer.toml"
 hash = "9742f59d84d3b09208c5de78d7d757e395a2a6f60289e3f02e6212d1c0d0b7ef"
 
@@ -103,7 +99,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "81b25e280853a8f03af26c89eb354b563b7e69f07e4d2ad0768804d0e5ce4966"
+hash = "c08908bd6708aeff644069713e0751d1be791bbf68eac6c7991fb67f75053540"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -530,11 +526,6 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "cf35640e350078e8cd7b29f727c3227aeb0b465f0fba9a266e6cbe15dadc4955"
-metafile = true
-
-[[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "ebb242e321ae99b8802c08adcd82cc7fadbe89234749f5d7543264b1bc53661b"
 metafile = true
 
 [[files]]

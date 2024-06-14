@@ -1,12 +1,12 @@
 name = "UNM"
 author = "UNM"
-version = "3.2.0"
+version = "3.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f4adff98ae9d713d4567a198a48cc0cd70d92ed5737e2ebf2cfe2db3fed4084d"
+hash = "b650fcf94808a2d2de5419323b7d7835dfc6980b92b4b61c48a45618d6b9d34a"
 
 [versions]
 forge = "47.3.1"
