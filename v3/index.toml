@@ -115,7 +115,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "512f6d7961556c61d70ab24de4b871a31e1418e5b67ac0278909e76ac1ea352d"
+hash = "76dc1eb3619fa819ec68e4068a3341d4026b879e2ca9ac41287d87a5f894ce67"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "26ebe0c46a192e3cb8dda33aa6bc1117f51aa16b84644d73a31f87fa5e8b2543"
+hash = "9744200222c77dfa72a0327500c97e62c9dddb4a60302df08fcb27489a1b862b"
 metafile = true
 
 [[files]]
