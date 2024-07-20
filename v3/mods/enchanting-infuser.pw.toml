@@ -1,13 +1,13 @@
 name = "Enchanting Infuser"
-filename = "EnchantingInfuser-v8.0.2-1.20.1-Forge.jar"
+filename = "EnchantingInfuser-v8.0.3-1.20.1-Forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ePv85y52/versions/1NgJmHTq/EnchantingInfuser-v8.0.2-1.20.1-Forge.jar"
+url = "https://cdn.modrinth.com/data/ePv85y52/versions/UIJtaBTP/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar"
 hash-format = "sha1"
-hash = "151d05918f0adbb44ee3ddf486668cf1df25c48f"
+hash = "f3821c8e9f5f597a54b9d1009eb38572b17ffe72"
 
 [update]
 [update.modrinth]
 mod-id = "ePv85y52"
-version = "1NgJmHTq"
+version = "UIJtaBTP"

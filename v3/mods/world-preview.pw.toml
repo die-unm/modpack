@@ -1,13 +1,13 @@
 name = "World Preview"
-filename = "world_preview-forge-1.20.1-1.2.2.jar"
+filename = "world_preview-forge-1.20.1-1.3.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WtfpyicL/versions/qFulHiZp/world_preview-forge-1.20.1-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/WtfpyicL/versions/RocrdF9Y/world_preview-forge-1.20.1-1.3.0.jar"
 hash-format = "sha1"
-hash = "f1d77cc2614161591980c806cc29daceee447ca1"
+hash = "ee42a429cdc1b46193d02cc9820c0b397852aba5"
 
 [update]
 [update.modrinth]
 mod-id = "WtfpyicL"
-version = "qFulHiZp"
+version = "RocrdF9Y"

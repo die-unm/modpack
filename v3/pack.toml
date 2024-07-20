@@ -1,15 +1,15 @@
 name = "UNM"
 author = "UNM"
-version = "3.2.3"
+version = "3.2.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7810e855ae05cb05e568187d377cfd4385873b6ff7d2169836e2b1b942fbd3e9"
+hash = "47142b240c3fc9c6bcfe236b1ce08d5e61827aed1b7dab9e263bc6efcb794200"
 
 [versions]
-forge = "47.3.1"
+forge = "47.3.5"
 minecraft = "1.20.1"
 
 [options]
