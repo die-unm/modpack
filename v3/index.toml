@@ -21,6 +21,10 @@ file = "config/coldsweat/world_settings.toml"
 hash = "42329e0c88452ec34843df8d5a182d1c30c1c39188302d222cb9fa88557ccca5"
 
 [[files]]
+file = "config/create_jetpack-common.toml"
+hash = "df9891acf5e62356bc0c754829dae013a046df08de8e0858c34ba5e517e96183"
+
+[[files]]
 file = "config/iammusicplayer.toml"
 hash = "9742f59d84d3b09208c5de78d7d757e395a2a6f60289e3f02e6212d1c0d0b7ef"
 
@@ -115,7 +119,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "dd9e90d8ccd1b8d578d0ac3b55613ffaa28265af93e32c87ea639ce250e90879"
+hash = "7c544c4073b05c30021d6254bc997277c392ae6c409db583f1c51e057f167b2f"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -325,13 +329,18 @@ hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
 metafile = true
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "9da6f5cf0c31eda0bd61d3ee934b739ceeee66f2edf486e7a6e52c39d84c7565"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "daa272bc10dc81af29618795007df196e2e804b418735c067ad442f3727f65fa"
+hash = "4aa0941bb8d59da53d3791e5e83284097c2b73a78090b9efd3abda4b989eed15"
 metafile = true
 
 [[files]]
@@ -347,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "6f2dd94587eeece8009e19fdb79f0f7326d1807baed47eb67afa349dcfbe6d49"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "a4359fef9eca62c983a3d9ce6b84121328bbe847f15e4c67c534114d447b688f"
 metafile = true
 
 [[files]]
@@ -575,8 +589,18 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "59b3e2099b15b9df5b01a853931d7766648aec1d2b3a4acc6542f581c9eec0f6"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
 
 [[files]]
@@ -632,6 +656,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "01c1739b0a62eaa9326444b58b56222ca8d66bf3ccb677e9ecfa54baa8c98a13"
 metafile = true
 
 [[files]]
@@ -990,6 +1019,16 @@ hash = "65d57814ec779568e45fdf79fd1056df5046cb909ff5165fb5c36c4e9182d88a"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
 metafile = true
@@ -1007,6 +1046,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "97ff489cce6b7ad5a4ed965e09a960efc5f6ad7a6cf4f070a47c8de8d00d917f"
 metafile = true
 
 [[files]]
@@ -1030,6 +1074,11 @@ hash = "b6593c59cb6160bea33961227213e505a657fc90261d3f2e266ee418c133eb07"
 metafile = true
 
 [[files]]
+file = "mods/titanium.pw.toml"
+hash = "0b65cd1a439326b6a81f453773722893e4eef1c065859e7a0f2935952f6e9cb3"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
 metafile = true
@@ -1037,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "f4a0bd2d234b496174894b285be4c862150ff4cc331e4a042d2fd05ea9a60f4e"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "3c9b481baf1f2eca22fe731934427e1d832fc4344a73c7b0f6e1880735c7e4dd"
 metafile = true
 
 [[files]]
