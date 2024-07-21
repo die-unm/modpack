@@ -25,6 +25,10 @@ file = "config/create_jetpack-common.toml"
 hash = "df9891acf5e62356bc0c754829dae013a046df08de8e0858c34ba5e517e96183"
 
 [[files]]
+file = "config/curios-common.toml"
+hash = "5ffa9966c51308b47b5c584b87b79dccd2b30b816e0c6eb615426b861ba7b5ea"
+
+[[files]]
 file = "config/iammusicplayer.toml"
 hash = "9742f59d84d3b09208c5de78d7d757e395a2a6f60289e3f02e6212d1c0d0b7ef"
 
@@ -119,7 +123,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "7c544c4073b05c30021d6254bc997277c392ae6c409db583f1c51e057f167b2f"
+hash = "aa41ebe4320e288b44c721f7a90e336bbb61ea9fdd078730da93058d58dfe9a9"
 
 [[files]]
 file = "kubejs/config/packicon.png"
