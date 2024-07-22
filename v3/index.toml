@@ -119,7 +119,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "aa41ebe4320e288b44c721f7a90e336bbb61ea9fdd078730da93058d58dfe9a9"
+hash = "383a35a849e93efd686982594cfae02e47d4a880c5ad3b907dcb51bd34f024e7"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -603,6 +603,11 @@ hash = "59b3e2099b15b9df5b01a853931d7766648aec1d2b3a4acc6542f581c9eec0f6"
 metafile = true
 
 [[files]]
+file = "mods/free-cam.pw.toml"
+hash = "6d9a95197fd301c7adc7baf9b47e027616f2dd0010906c8f36c08717bbf0a851"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
@@ -685,6 +690,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "d04432348bdfc79908653387d17cad76c54b0abd9d313f87bb7902802d5bf93a"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "52cc339ce9f07750954c2c47715237a874801245e0186609b595739977391e2c"
 metafile = true
 
 [[files]]
@@ -800,6 +810,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "456ed79ce8f33174dcee7c6a5f6e833e78f12c13d5f5e0bdc7b25a40fb5aaa29"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "bce828eb72c5b99a62a5016e7d6a0947419f0b5805264e17afb1c10e52092455"
 metafile = true
 
 [[files]]
@@ -979,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "cf0681c4c5310518789e14840267c6618e26161ee9e3b3db2f9d4aff8e64c368"
+hash = "cbc304fa509ccc0a1d1a78f7b993a28eafab13d5527b5d1a3fd9e7553f9c5cbd"
 metafile = true
 
 [[files]]
@@ -1040,6 +1055,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "ca714cd584e3ca52621cd39979c7b3b30e2fbef674b2ac2d6080dc935c2325a7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Joban Client Mod"
+filename = "JCM-forge-2.0.0-beta-2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/7mxc3wzf/JCM-forge-2.0.0-beta-2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "fb033269c017c1496003db1a1df0ee2a9e335da1"
+
+[update]
+[update.modrinth]
+mod-id = "lQqKCDhg"
+version = "7mxc3wzf"
