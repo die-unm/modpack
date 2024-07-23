@@ -123,7 +123,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "df90ea1b6593a25546eae36b7313e2ef0e42a970a33ddde01f93414cf1c742e7"
+hash = "8c5f4a86ff3d1f504580e5e1553140bc3977d73e043228a4f6fea2003e1bd588"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -924,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "28c4f7857f82a6196ca44d3ee66b2d93cda47990e9d1feae82297a0cf0d2c717"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
