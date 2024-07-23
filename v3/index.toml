@@ -29,6 +29,10 @@ file = "config/iammusicplayer.toml"
 hash = "9742f59d84d3b09208c5de78d7d757e395a2a6f60289e3f02e6212d1c0d0b7ef"
 
 [[files]]
+file = "config/industrialforegoing/machine-agriculture-husbandry.toml"
+hash = "3761146d1925f52470a559a340cb3e55203107d19bfa1f9a12d716073a049aec"
+
+[[files]]
 file = "config/k_turrets-common.toml"
 hash = "bc28e3993a3b9a9b7627333c44359a224e139743dcba246fbb3e24f6fd7a8f16"
 
@@ -119,7 +123,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "383a35a849e93efd686982594cfae02e47d4a880c5ad3b907dcb51bd34f024e7"
+hash = "0ef6be768c3225f81e35550ba32326be1c3715b99b00f9ed35b60716a4e8cbb9"
 
 [[files]]
 file = "kubejs/config/packicon.png"
