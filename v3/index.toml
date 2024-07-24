@@ -123,7 +123,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "8c5f4a86ff3d1f504580e5e1553140bc3977d73e043228a4f6fea2003e1bd588"
+hash = "a173c182903513400a9d521c478f3f6d2a4bc35d18fb704fe868430da1892f36"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -140,6 +140,10 @@ hash = "66e9261425f3c12bc404793446b8f00c0c6e6862f0f64a1269c576de9675eb3e"
 [[files]]
 file = "kubejs/server_scripts/curios.js"
 hash = "faef9fd21965401c0f0248b877212827a97c3b157fed5485b3f613796d85b43b"
+
+[[files]]
+file = "kubejs/server_scripts/leaves.js"
+hash = "a2f01ec6e067b2e1b65d074d70fcb7b5fcfab8cbec15dad6d2269c9b211d1c1f"
 
 [[files]]
 file = "mods/ae2-things-forge.pw.toml"
