@@ -30,7 +30,7 @@ hash = "9742f59d84d3b09208c5de78d7d757e395a2a6f60289e3f02e6212d1c0d0b7ef"
 
 [[files]]
 file = "config/industrialforegoing/machine-agriculture-husbandry.toml"
-hash = "3761146d1925f52470a559a340cb3e55203107d19bfa1f9a12d716073a049aec"
+hash = "6e52408171ab42c439c22b047c77294b8152451386eba18c16c223fa515d18d8"
 
 [[files]]
 file = "config/k_turrets-common.toml"
@@ -123,7 +123,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "ab1fd7b5e0545aea0b6a71e66df6a390f4e1fbba315cc56078fe06634b0372fd"
+hash = "789fa0eaef392ee65ae990e43ba6d831c9af570dd3e1c22e34f6809e05dc57cc"
 
 [[files]]
 file = "kubejs/config/packicon.png"
