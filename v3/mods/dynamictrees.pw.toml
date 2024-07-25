@@ -1,13 +1,13 @@
 name = "Dynamic Trees"
-filename = "DynamicTrees-1.20.1-1.3.0-BETA11.jar"
+filename = "DynamicTrees-1.20.1-1.3.0-BETA12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vdjF5PL5/versions/LipKJRFX/DynamicTrees-1.20.1-1.3.0-BETA11.jar"
+url = "https://cdn.modrinth.com/data/vdjF5PL5/versions/po6VTN46/DynamicTrees-1.20.1-1.3.0-BETA12.jar"
 hash-format = "sha1"
-hash = "cd127b8328b639b88f2e61f6880f7919a98e7619"
+hash = "fba38d8aa683518bc9e676b93c7ad61aab3d28b9"
 
 [update]
 [update.modrinth]
 mod-id = "vdjF5PL5"
-version = "LipKJRFX"
+version = "po6VTN46"

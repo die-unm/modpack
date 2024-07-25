@@ -1,6 +1,7 @@
 name = "Joban Client Mod"
 filename = "JCM-forge-2.0.0-beta-2+1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/7mxc3wzf/JCM-forge-2.0.0-beta-2%2B1.20.1.jar"
