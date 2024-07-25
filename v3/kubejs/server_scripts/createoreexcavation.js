@@ -29,7 +29,7 @@ ServerEvents.recipes((event) => {
       "unm:createoreexcavation/vein/universal_overworld",
       1200
     )
-    .stress(1024)
+    .stress(256)
     .id("unm:createoreexcavation/drilling/universal_overworld");
   event.recipes.createoreexcavation
     .extracting(
@@ -59,7 +59,7 @@ ServerEvents.recipes((event) => {
       "unm:createoreexcavation/vein/universal_nether",
       1200
     )
-    .stress(1024)
+    .stress(256)
     .drill("createoreexcavation:diamond_drill")
     .id("unm:createoreexcavation/drilling/universal_nether");
   event.recipes.createoreexcavation

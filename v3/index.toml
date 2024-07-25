@@ -123,7 +123,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "243e5bb0e0fd14f8ce629ba278ca05d9530e84fd8a2832f4c9687bb2859cc54a"
+hash = "ab1fd7b5e0545aea0b6a71e66df6a390f4e1fbba315cc56078fe06634b0372fd"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -135,7 +135,7 @@ hash = "83c606b468e860e3566cbb839ad1a07bbddb59096a17adcbd5f619e645e9ce5e"
 
 [[files]]
 file = "kubejs/server_scripts/createoreexcavation.js"
-hash = "66e9261425f3c12bc404793446b8f00c0c6e6862f0f64a1269c576de9675eb3e"
+hash = "b6a96cdce0791514bb2bd7dd2c73f54628ae945c23ed76b72316ebf91538366d"
 
 [[files]]
 file = "kubejs/server_scripts/curios.js"
