@@ -94,7 +94,7 @@ tankSize = 8000
 #Exact Copy to spawn - Default: [false]
 exactCopy = false
 #Essence needed to spawn [Mob health*EssenceNeeded] - Default: [12]
-essenceNeeded = 3
+essenceNeeded = 2
 
 [MachineAgricultureHusbandryConfig.WitherBuilderConfig]
 #Cooldown Time in Ticks [20 Ticks per Second] - Default: [40 (5s)]

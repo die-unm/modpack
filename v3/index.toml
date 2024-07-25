@@ -30,7 +30,7 @@ hash = "9742f59d84d3b09208c5de78d7d757e395a2a6f60289e3f02e6212d1c0d0b7ef"
 
 [[files]]
 file = "config/industrialforegoing/machine-agriculture-husbandry.toml"
-hash = "6e52408171ab42c439c22b047c77294b8152451386eba18c16c223fa515d18d8"
+hash = "6bb39523e408ad5f74c9c9bd2c736c9cf690359817827883665a957798f94271"
 
 [[files]]
 file = "config/k_turrets-common.toml"
