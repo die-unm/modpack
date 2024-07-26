@@ -151,7 +151,7 @@ hash = "a2f01ec6e067b2e1b65d074d70fcb7b5fcfab8cbec15dad6d2269c9b211d1c1f"
 
 [[files]]
 file = "kubejs/server_scripts/mekanism.js"
-hash = "345b90a0484734b135003e188310fcb6311030811c2821a9de7e6e2cc0ca9321"
+hash = "cf3365ab76d46aa6eb9ed7b7bef5e1c4ba0230882df339ee97fa6826b23faf49"
 
 [[files]]
 file = "mods/ae-additions-extra-cells-2-fork.pw.toml"

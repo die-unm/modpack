@@ -11,6 +11,17 @@ ServerEvents.recipes((event) => {
       item: "minecraft:redstone",
     },
   });
+  event.custom({
+    type: "mekanism:crushing",
+    input: {
+      ingredient: {
+        item: "minecraft:redstone",
+      },
+    },
+    output: {
+      item: "fluxnetworks:flux_dust",
+    },
+  });
 
   event.custom({
     type: "mekanism:sawing",
