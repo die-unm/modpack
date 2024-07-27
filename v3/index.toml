@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/gear.toml"
+hash = "eed7f142ea9f6e94c6cf235afec6ad2006b9005e2d79be18b3261f89060955a8"
+
+[[files]]
 file = "config/ae2/common.json"
 hash = "3145b65ee42030176d1a534d7810117e63f71ee80c84cfa565a85ba87d0b6d24"
 

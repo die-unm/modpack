@@ -1,0 +1,11 @@
+#Gear Config. This config is synced from server to client.
+[gear]
+
+#Jetpack Settings
+[gear.jetpack]
+#Jetpack Gas Tank capacity in mB.
+#Range: 1 ~ 9223372036854775807
+maxGas = 24000
+#Amount of hydrogen the Jetpack can accept per tick.
+#Range: 1 ~ 9223372036854775807
+fillRate = 64
