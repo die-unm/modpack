@@ -123,7 +123,7 @@ hash = "592a546b2874dad69e6f6c5f354477780c9c7c129a75d236585dd2955d2f609e"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "789fa0eaef392ee65ae990e43ba6d831c9af570dd3e1c22e34f6809e05dc57cc"
+hash = "a891dc0d219338afbd9d3a4b27885253610f390d80ad0cce86e046288da34bf1"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "a78d8ed1e7cb27b1733f5e9d87796c632868dd712199987a6f70fea7dd0166ba"
+hash = "8df4661f7a00b5e01562b27370b077d5b6df3d584aaf63e954dd7e449a77f6ab"
 metafile = true
 
 [[files]]
@@ -259,6 +259,11 @@ hash = "4dfa5c2e25d36ea1c00ecfabc88cb2c95910badccb1cf13dfcc79d1dc189ff86"
 metafile = true
 
 [[files]]
+file = "mods/better-brightness-slider.pw.toml"
+hash = "059d8da8776fe2ee14a88046dba93c9f36a0216783fbb047507101bd7475b09f"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "71d9fa13271f1c96b9c00f8a52b5d370134053bcd1d26223362e9970d1358e10"
 metafile = true
@@ -306,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
+metafile = true
+
+[[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "b741a14460455f39b801d112b40e244e1c3e31ba8aa5450ba2adc8a745bb9688"
 metafile = true
 
 [[files]]
@@ -375,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "c6d60d0468773af6b5c39a68a3e9384367fafad9ce6ca13f3495d0f9735649a4"
+hash = "9b4526ab8bfdd3bf813b788a382b849c31fde9a510668c80761ba8897952af2c"
 metafile = true
 
 [[files]]
@@ -430,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "2f10f1be4ce836aea4272a12802e18faf00555b6d27d1d2a6c02027b3861e9d8"
+hash = "a9a6558664aca6df1456056bede004b35938d89fd3eb63d99c20f07ce086d93b"
 metafile = true
 
 [[files]]
@@ -515,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "d5dbd5e742871cbe5217ea21879a29b96a82895438e7406beedd0f71137b5838"
+hash = "e5755503a6eabcdca52ad30c9badadf8427c51115a4d6c84defb7661f0a479cb"
 metafile = true
 
 [[files]]
@@ -720,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "33b350924dfef6b82aa8bd2610b535653e5066cd13b3b9667a071fc50c9f2755"
+hash = "3514e10db21d24903c95dd1f551b91ae77a957400ae788393aa8100f2f7f88d0"
 metafile = true
 
 [[files]]
@@ -780,12 +790,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "bf6ae48708a8a2c12c8ad6ea3ec3aab6badf6602500c80dae359473c529715a2"
+hash = "d6f14c55f08b71ab9898d332615ecf28b6a4d4d4d4365b55f753bf1887b749ab"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a5acb5a1d8e4a5ad6af5192c8e0fad16cdcac252bd15c93b16610f04d23b1a66"
+hash = "0ced1abc1f8beb1603b0c93dbae0bfd7ffd862b93f6da334592019fa8b22e891"
 metafile = true
 
 [[files]]
@@ -850,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b4f221a6dc89a622879a17d581a9af71d3c83382765e3999e26d023de19cf211"
+hash = "1c99abbea7021a74d4fc8393b2dfe83516dd91a460fa2644236a5dda77eeab49"
 metafile = true
 
 [[files]]
@@ -1030,7 +1040,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "a080a7bad9c442d826f077b5c2b7a43d745a8ab8478cca9987967a3bbdb7f87d"
+hash = "975e974e16bd17fbd418a91ab63f142bd7e216d08e56b0a2c48cd2bd54e3a2ab"
 metafile = true
 
 [[files]]
@@ -1130,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/thirst-was-taken.pw.toml"
-hash = "b6593c59cb6160bea33961227213e505a657fc90261d3f2e266ee418c133eb07"
+hash = "abf1d0595dd10ba9d317011439dc9022a18ab2fb833947a1748900642d5125ce"
 metafile = true
 
 [[files]]
